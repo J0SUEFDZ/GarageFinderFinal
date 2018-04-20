@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/garage_finder_app-master.iml" filepath="$PROJECT_DIR$/garage_finder_app-master.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/Proyecto1.iml" filepath="$PROJECT_DIR$/Proyecto1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+>>>>>>> 028c41fdb9f7839e74ef0d09c3e48501525d7add
     </modules>
   </component>
 </project>
